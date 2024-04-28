@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    background-image: url("307749.jpg"); /* Replace 'path/to/your-background-image.jpg' with the correct file path */
+    background-image: url("C:\Users\harsh\OneDrive\Desktop\portfolio website\307749.jpg"); /* Replace 'path/to/your-background-image.jpg' with the correct file path */
     background-size: cover;
     background-position: cover;
     background-repeat: no-repeat;
@@ -14,6 +14,7 @@ header {
     background-color: rgba(51, 51, 51, 0.7); /* Dark background with 70% opacity */
     color: #fff;
     padding: 20px;
+    text-align: center; /* Align header content to the center */
 }
 
 nav ul {
